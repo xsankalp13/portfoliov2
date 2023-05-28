@@ -1,9 +1,9 @@
 import p1 from "./assets/Projects/portfolio-project.png";
 import p2 from "./assets/Projects/image-genration.png";
 import p3 from "./assets/Projects/gpt3-landingpage.png";
-import p4 from "./assets/Projects/3d-shirt.png";
-import p5 from "./assets/project-5.png";
-import p6 from "./assets/project-6.png";
+import p4 from "./assets/Projects/todoapp_image.png";
+import p5 from "./assets/Projects/Sushiman.png";
+import p6 from "./assets/Projects/chumHire.png";
 
 export const filters = [
     {
@@ -11,12 +11,12 @@ export const filters = [
         id: "all",
     },
     {
-        name: "Dashboard",
-        id: "dashboard",
+        name: "Landing Page",
+        id: "landing-page",
     },
     {
-        name: "Mobile App",
-        id: "mobile-app",
+        name: "CURD Operations",
+        id: "curd",
     },
     {
         name: "Website",
@@ -26,32 +26,32 @@ export const filters = [
 
 export const projects = [
     {
-        name: "Join the Innovative Car Wash Service",
+        name: "My previous Personal PortFolio",
         image: p1,
-        tags: ["dashboard", "mobile-app"],
+        tags: ["website", "landing-page"],
     },
     {
-        name: "Your Luggage is in Safe Hands",
+        name: "Image Generation Ai with the Help of OpenAPI",
         image: p2,
-        tags: ["dashboard", "website"],
+        tags: ["curd", "website"],
     },
     {
-        name: "The Art of Hiring",
+        name: "GPT-3 Landing Page",
         image: p3,
-        tags: ["mobile-app"],
+        tags: ["landing-page"],
     },
     {
-        name: "We Are Solving Global Problems",
+        name: "A Todo App with user Authentication",
         image: p4,
-        tags: ["mobile-app"],
+        tags: ["curd"],
     },
     {
-        name: "The English Tea Ceremony",
+        name: "A Sushi Hotel's Landing Page",
         image: p5,
-        tags: ["website", "dashboard"],
+        tags: ["website", "landing-page"],
     },
     {
-        name: "Saving Photo Memories",
+        name: "ChumHire My Personal Project",
         image: p6,
         tags: ["website"],
     },
