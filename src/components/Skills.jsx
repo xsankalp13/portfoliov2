@@ -66,49 +66,47 @@ const Skills = () => {
                         <Service
                             num="1"
                             title="Ui/Ux Design"
-                            desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+                            desc="With a strong command over UI/UX design principles, I excel at creating intuitive and visually appealing user interfaces that enhance the overall user experience. My proficiency in wireframing, prototyping, and conducting user research enables me to deliver seamless and engaging digital experiences."
                             data={[
-                                "Prototype",
+                                "UI/UX Design",
                                 "Wireframe",
-                                "User Experience",
-                                "Prototype",
                                 "Prototype",
                             ]}
                         />
                         <Service
                             num="2"
                             title="Backend Development"
-                            desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+                            desc="With expertise in backend development, I specialize in building robust server-side applications and ensuring seamless database management. I thrive in integrating APIs and optimizing performance to deliver efficient and scalable solutions."
                             data={[
-                                "Prototype",
-                                "Wireframe",
-                                "User Experience",
-                                "Prototype",
-                                "Prototype",
+                                "Backend",
+                                "Server-side",
+                                "Database Management",
+                                "API Integration",
+                                "Performance Optimization",
                             ]}
                         />
                         <Service
                             num="3"
                             title="Frontend Development"
-                            desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+                            desc="With a keen eye for design and proficiency in frontend development, I craft visually captivating user interfaces and ensure responsive web design across devices. Leveraging JavaScript frameworks, I deliver dynamic and interactive web experiences while maintaining cross-browser compatibility."
                             data={[
-                                "Prototype",
-                                "Wireframe",
-                                "User Experience",
-                                "Prototype",
-                                "Prototype",
+                                "Frontend",
+                                "User Interface",
+                                "Responsivness",
+                                "JS Frameworks",
+                                "Cross-browser",
                             ]}
                         />
                         <Service
                             num="4"
                             title="DevOps"
-                            desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+                            desc="As a DevOps practitioner, I specialize in streamlining software development processes through effective implementation of CI/CD pipelines. With expertise in IaC and configuration management, I automate infrastructure provisioning and ensure consistent deployments. Leveraging containerization technologies, I enable scalable and portable applications."
                             data={[
-                                "Prototype",
-                                "Wireframe",
-                                "User Experience",
-                                "Prototype",
-                                "Prototype",
+                                "DevOps",
+                                "CI/CD",
+                                "IaC",
+                                "Configuration Management",
+                                "Containerization",
                             ]}
                         />
                     </div>
