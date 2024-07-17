@@ -2,7 +2,7 @@ import p1 from "./assets/Projects/portfolio-project.png";
 import p2 from "./assets/Projects/image-genration.png";
 import p3 from "./assets/Projects/gpt3-landingpage.png";
 import p4 from "./assets/Projects/todoapp_image.png";
-import p5 from "./assets/Projects/Sushiman.png";
+import p5 from "./assets/Projects/sushiman.png";
 import p6 from "./assets/Projects/chumHire.png";
 
 export const filters = [
